@@ -1,0 +1,18 @@
+LB,23,autonomous,great,great,positive
+LB,24,autonomous,great,great,positive
+DP,25,autonomous,great,great,positive
+DP,26,autonomous,great,great,positive
+FB,22,autonomous,great,ok,negative
+FB,23,autonomous,great,ok,positive
+JF,23,autonomous,ok,great,negative
+JF,24,autonomous,ok,great,positive
+JW,23,autonomous,great,great,positive
+JW,24,autonomous,great,great,negative
+GB,24,autonomous,ok,great,positive
+GB,25,autonomous,ok,ok,mixed
+MR,19,autonomous,great,not great,positive
+MR,20,autonomous,great,ok,positive
+DB,19,autonomous,ok,ok,negative
+DB,20,autonomous,great,great,negative
+PT,19,autonomous,great,great,negative
+PT,20,autonomous,ok,great,positive

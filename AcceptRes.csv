@@ -1,0 +1,267 @@
+Criteria,Score,Timing
+Success,0,Before
+Success,1,Before
+Success,1,Before
+Success,1,Before
+Success,-1,Before
+Success,1,Before
+Success,0,Before
+Success,0,Before
+Success,1,Before
+Success,2,Before
+Success,1,Before
+Success,1,Before
+Success,0,Before
+Success,1,Before
+Success,1,Before
+Success,0,Before
+Success,0,Before
+Success,1,Before
+Success,2,Before
+Success,1,After
+Success,2,After
+Success,1,After
+Success,1,After
+Success,1,After
+Success,2,After
+Success,0,After
+Success,1,After
+Success,1,After
+Success,1,After
+Success,1,After
+Success,1,After
+Success,2,After
+Success,2,After
+Success,1,After
+Success,0,After
+Success,1,After
+Success,2,After
+Success,2,After
+Useful,1,Before
+Useful,1,Before
+Useful,1,Before
+Useful,0,Before
+Useful,0,Before
+Useful,1,Before
+Useful,1,Before
+Useful,1,Before
+Useful,1,Before
+Useful,1,Before
+Useful,1,Before
+Useful,1,Before
+Useful,0,Before
+Useful,1,Before
+Useful,1,Before
+Useful,0,Before
+Useful,0,Before
+Useful,1,Before
+Useful,2,Before
+Useful,1,After
+Useful,1,After
+Useful,1,After
+Useful,0,After
+Useful,1,After
+Useful,1,After
+Useful,1,After
+Useful,2,After
+Useful,2,After
+Useful,2,After
+Useful,1,After
+Useful,1,After
+Useful,1,After
+Useful,2,After
+Useful,1,After
+Useful,1,After
+Useful,1,After
+Useful,2,After
+Useful,2,After
+More Engaging,0,Before
+More Engaging,1,Before
+More Engaging,0,Before
+More Engaging,1,Before
+More Engaging,0,Before
+More Engaging,1,Before
+More Engaging,0,Before
+More Engaging,0,Before
+More Engaging,1,Before
+More Engaging,1,Before
+More Engaging,2,Before
+More Engaging,0,Before
+More Engaging,0,Before
+More Engaging,1,Before
+More Engaging,1,Before
+More Engaging,-1,Before
+More Engaging,1,Before
+More Engaging,0,Before
+More Engaging,1,Before
+More Engaging,1,After
+More Engaging,1,After
+More Engaging,1,After
+More Engaging,1,After
+More Engaging,0,After
+More Engaging,2,After
+More Engaging,1,After
+More Engaging,1,After
+More Engaging,2,After
+More Engaging,2,After
+More Engaging,1,After
+More Engaging,1,After
+More Engaging,2,After
+More Engaging,2,After
+More Engaging,1,After
+More Engaging,0,After
+More Engaging,1,After
+More Engaging,2,After
+More Engaging,2,After
+Good Idea,1,Before
+Good Idea,1,Before
+Good Idea,1,Before
+Good Idea,0,Before
+Good Idea,-1,Before
+Good Idea,1,Before
+Good Idea,0,Before
+Good Idea,1,Before
+Good Idea,1,Before
+Good Idea,1,Before
+Good Idea,1,Before
+Good Idea,1,Before
+Good Idea,0,Before
+Good Idea,1,Before
+Good Idea,1,Before
+Good Idea,0,Before
+Good Idea,1,Before
+Good Idea,0,Before
+Good Idea,2,Before
+Good Idea,1,After
+Good Idea,2,After
+Good Idea,1,After
+Good Idea,0,After
+Good Idea,0,After
+Good Idea,1,After
+Good Idea,1,After
+Good Idea,1,After
+Good Idea,1,After
+Good Idea,2,After
+Good Idea,1,After
+Good Idea,1,After
+Good Idea,2,After
+Good Idea,2,After
+Good Idea,1,After
+Good Idea,0,After
+Good Idea,1,After
+Good Idea,2,After
+Good Idea,2,After
+Intimidating (User),-2,Before
+Intimidating (User),-1,Before
+Intimidating (User),-1,Before
+Intimidating (User),-1,Before
+Intimidating (User),-2,Before
+Intimidating (User),-1,Before
+Intimidating (User),-1,Before
+Intimidating (User),0,Before
+Intimidating (User),-1,Before
+Intimidating (User),0,Before
+Intimidating (User),-1,Before
+Intimidating (User),-1,Before
+Intimidating (User),-1,Before
+Intimidating (User),1,Before
+Intimidating (User),1,Before
+Intimidating (User),0,Before
+Intimidating (User),0,Before
+Intimidating (User),-1,Before
+Intimidating (User),1,Before
+Intimidating (User),-1,After
+Intimidating (User),-1,After
+Intimidating (User),1,After
+Intimidating (User),-1,After
+Intimidating (User),-1,After
+Intimidating (User),-1,After
+Intimidating (User),-1,After
+Intimidating (User),0,After
+Intimidating (User),-1,After
+Intimidating (User),1,After
+Intimidating (User),0,After
+Intimidating (User),1,After
+Intimidating (User),0,After
+Intimidating (User),1,After
+Intimidating (User),1,After
+Intimidating (User),-1,After
+Intimidating (User),0,After
+Intimidating (User),-1,After
+Intimidating (User),0,After
+Intimidating (Me),1,Before
+Intimidating (Me),0,Before
+Intimidating (Me),1,Before
+Intimidating (Me),0,Before
+Intimidating (Me),-1,Before
+Intimidating (Me),-1,Before
+Intimidating (Me),-1,Before
+Intimidating (Me),2,Before
+Intimidating (Me),0,Before
+Intimidating (Me),-1,Before
+Intimidating (Me),2,Before
+Intimidating (Me),1,Before
+Intimidating (Me),1,Before
+Intimidating (Me),1,Before
+Intimidating (Me),1,Before
+Intimidating (Me),0,Before
+Intimidating (Me),0,Before
+Intimidating (Me),1,Before
+Intimidating (Me),-2,Before
+Intimidating (Me),1,After
+Intimidating (Me),1,After
+Intimidating (Me),1,After
+Intimidating (Me),1,After
+Intimidating (Me),-1,After
+Intimidating (Me),-1,After
+Intimidating (Me),0,After
+Intimidating (Me),2,After
+Intimidating (Me),0,After
+Intimidating (Me),0,After
+Intimidating (Me),1,After
+Intimidating (Me),1,After
+Intimidating (Me),1,After
+Intimidating (Me),2,After
+Intimidating (Me),1,After
+Intimidating (Me),0,After
+Intimidating (Me),1,After
+Intimidating (Me),2,After
+Intimidating (Me),2,After
+Apprehensive,-1,Before
+Apprehensive,-1,Before
+Apprehensive,1,Before
+Apprehensive,-1,Before
+Apprehensive,-2,Before
+Apprehensive,-1,Before
+Apprehensive,-1,Before
+Apprehensive,1,Before
+Apprehensive,0,Before
+Apprehensive,-1,Before
+Apprehensive,2,Before
+Apprehensive,-1,Before
+Apprehensive,-1,Before
+Apprehensive,1,Before
+Apprehensive,1,Before
+Apprehensive,0,Before
+Apprehensive,-1,Before
+Apprehensive,1,Before
+Apprehensive,2,Before
+Apprehensive,2,After
+Apprehensive,-1,After
+Apprehensive,1,After
+Apprehensive,0,After
+Apprehensive,-1,After
+Apprehensive,-1,After
+Apprehensive,1,After
+Apprehensive,2,After
+Apprehensive,0,After
+Apprehensive,1,After
+Apprehensive,1,After
+Apprehensive,0,After
+Apprehensive,1,After
+Apprehensive,2,After
+Apprehensive,1,After
+Apprehensive,0,After
+Apprehensive,1,After
+Apprehensive,2,After
+Apprehensive,2,After
